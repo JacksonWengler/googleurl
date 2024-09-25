@@ -7,3 +7,5 @@ search= search.replace(' ', '%20')
 google=('google.com/search?q=')
 url=(google+search)
 webbrowser.open_new(url)
+
+
